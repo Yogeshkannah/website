@@ -1,0 +1,20 @@
+[
+    {
+        "title": "AI Chatbot using Python",
+        "description": "A smart chatbot built with Python and NLP for college helpdesk.",
+        "price": 1999,
+        "image": "https://source.unsplash.com/600x400/?chatbot,ai"
+    },
+    {
+        "title": "E-commerce Website using Django",
+        "description": "A full-featured Django-based online store for college mini-projects.",
+        "price": 2499,
+        "image": "https://source.unsplash.com/600x400/?ecommerce,website"
+    },
+    {
+        "title": "Student Attendance System",
+        "description": "Face recognition-based attendance system using OpenCV.",
+        "price": 2999,
+        "image": "https://source.unsplash.com/600x400/?attendance,ai"
+    }
+]
